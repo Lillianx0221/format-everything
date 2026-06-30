@@ -1,0 +1,61 @@
+{
+  "templateName": "专利检索分析报告",
+  "description": "为高校/企业委托方出具的专利检索分析报告示例数据",
+  "sampleCount": 3,
+  "data": [
+    {
+      "reportNo": "IPR-2024-001",
+      "clientName": "清华大学",
+      "clientType": "高校",
+      "projectName": "新型钙钛矿太阳能电池技术",
+      "applicationDate": "2024年3月15日",
+      "reportDate": "2024年4月2日",
+      "researcher": "张明华",
+      "reviewer": "李建国",
+      "techField": "H01L 31/00（半导体器件）",
+      "searchScope": "中国专利全文数据库、DWPI、EPODOC",
+      "keywordList": "钙钛矿、perovskite、太阳能电池、光伏、hole transport layer",
+      "patentCount": 127,
+      "corePatents": "CN113456789A、US20220123456A1、WO2023/056789A1",
+      "conclusion": "该技术领域近五年专利申请量呈显著上升趋势，核心专利主要集中在美国、中国和日本。建议关注异质结结构改进和稳定性提升两个技术分支。",
+      "riskLevel": "中等",
+      "recommendations": "建议在电池封装技术和长期稳定性测试方面加强专利布局，同时密切关注国际竞争对手在相关领域的申请动态。"
+    },
+    {
+      "reportNo": "IPR-2024-002",
+      "clientName": "比亚迪股份有限公司",
+      "clientType": "企业",
+      "projectName": "固态电池电解质材料",
+      "applicationDate": "2024年2月20日",
+      "reportDate": "2024年3月18日",
+      "researcher": "王晓东",
+      "reviewer": "陈志强",
+      "techField": "H01M 10/0562（二次电池）",
+      "searchScope": "中国专利全文数据库、DWPI、INSPEC",
+      "keywordList": "solid state battery、solid electrolyte、硫化物、氧化物、聚合物电解质",
+      "patentCount": 203,
+      "corePatents": "CN112345678A、JP2023-123456、US20230187654A1",
+      "conclusion": "固态电池电解质领域竞争极为激烈，丰田、QuantumScape、宁德时代等头部企业已构建严密的专利壁垒。硫化物电解质路线的专利密度最高。",
+      "riskLevel": "高",
+      "recommendations": "建议采取差异化技术路线，重点布局复合型电解质和界面修饰技术，规避头部企业的核心专利封锁。"
+    },
+    {
+      "reportNo": "IPR-2024-003",
+      "clientName": "浙江大学",
+      "clientType": "高校",
+      "projectName": "基于联邦学习的医疗数据隐私保护方法",
+      "applicationDate": "2024年1月10日",
+      "reportDate": "2024年2月28日",
+      "researcher": "刘思雨",
+      "reviewer": "赵文博",
+      "techField": "G06F 21/60（数据保护）",
+      "searchScope": "中国专利全文数据库、IEEE Xplore、PubMed",
+      "keywordList": "federated learning、联邦学习、差分隐私、differential privacy、医疗数据、medical data",
+      "patentCount": 86,
+      "corePatents": "CN111234567A、US20220234567A1、WO2022/012345A1",
+      "conclusion": "联邦学习在医疗领域的应用尚处于早期阶段，专利申请量增长迅速但总量相对有限。隐私计算与模型安全是两个主要的技术分支。",
+      "riskLevel": "低",
+      "recommendations": "建议抓住窗口期，在联邦学习框架的医学影像应用场景中加强专利布局，同时注重与医疗机构的合作研发记录。"
+    }
+  ]
+}
